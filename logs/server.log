@@ -1,0 +1,11 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 437 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.70.173:3000/
+8:24:54 AM [vite] ✨ new dependencies optimized: lucide-react, @splinetool/react-spline, framer-motion
+8:24:54 AM [vite] ✨ optimized dependencies changed. reloading
